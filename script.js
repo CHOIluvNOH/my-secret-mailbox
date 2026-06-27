@@ -17,7 +17,7 @@ const friends = {
 휴가 나오면 나랑 놀아줘야 돼. 그때 재밌게 놀자. 형, 다시 한번 부족한 나 챙겨주고 좋은 형이 되어줘서 진심으로 고마워. 몸 조심히 잘 지내고 있어. 또 연락할게!
 
 - 현호가 -`,
-    image: "./assets/hyunbin-portrait.jpg",
+    image: "hyunbin-portrait.jpg",
     imageAlt: "현빈 형에게 보내는 편지에 첨부된 남자 그림",
     imageCaption: "ATTACHED SKETCH / 현빈"
   },
@@ -37,7 +37,7 @@ const friends = {
 1년 반 동안 지랄 맞은 나랑 지내줘서 고마웠고, 건강히 지내라
 
 - 현호가 -`,
-    image: "./assets/haeri-portrait.jpg",
+    image: "haeri-portrait.jpg",
     imageAlt: "해리에게 보내는 편지에 첨부된 여자 그림",
     imageCaption: "ATTACHED SKETCH / 해리"
   },
